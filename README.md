@@ -1,1 +1,2 @@
-# Three-Pines-Coffee-Re-design
+# Three-Pines-Coffee-Re
+design
